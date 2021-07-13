@@ -4,3 +4,4 @@ Hemoglobin-alpha   Human       HBA_HUMAN  P69905
 Hemoglobin-beta    Human       HBB_HUMAN  P68871
 Bear		Bear		B
 A S D F G H J
+asdafs
